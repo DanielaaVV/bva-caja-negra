@@ -6,7 +6,7 @@ permitido **[18, 65]** (ambos inclusive).
 
 ## Requisitos
 
-- Java 17+ (JDK)
+- Java 21 (JDK)
 - Maven (o usar el Maven que trae integrado la extensión de Java de VS Code)
 - Extensión **Extension Pack for Java** en VS Code (se sugiere sola al abrir la carpeta)
 
